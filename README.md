@@ -13,7 +13,7 @@ Adjusting the duration of the slides will not impact the movie size, so if the m
 Audio joins across slides with a slight delay. 
 Work needs to be done to get the transcriptions lined up completely.
 
-Version 2.2.1
+Version 2.2.1 (Customise the place holders for predefined export locations in the dropdown box/comboBox)
 ![image](https://github.com/user-attachments/assets/2c8232ff-d421-42e9-b0b3-cde563251f24)
 
 Version 2.2.3 (Single no placeholders)
