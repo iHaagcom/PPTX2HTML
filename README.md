@@ -1,6 +1,7 @@
 # PPTX2HTML
 Powerpoint to HTML converter
 
+This is a python application that can convert a Microsoft powerpoint file to html. it will present as if you're presenting a timmed presentation. video and audio are supported. 
 For the experimental Whisper transcriptions to work, you need to have the following files in the same directory (note whisper is in a folder called 'Whisper'): 
 "ffmpeg.exe"
 "Whisper\\main.exe"
